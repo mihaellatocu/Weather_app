@@ -97,6 +97,13 @@ body {
     margin-right: 5px;
   }
   .card {
-    padding: 20px 15px
+    padding: 20px 10px;
+  }
+  .details {
+    padding: 0 10px;
+  }
+  .humidity, .wind {
+    font-size: 16px;
+    margin-top: -6px;
   }
 }
